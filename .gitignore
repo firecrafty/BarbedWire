@@ -1,0 +1,8 @@
+
+/build/
+/.idea/
+/.gradle/
+/run/
+/classes/
+classes/
+src/main/resources/assets/barbedwire/textures/items/

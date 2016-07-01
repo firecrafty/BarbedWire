@@ -1,0 +1,9 @@
+itemGroup.barbedWire=Barbed Wire Mod
+
+item.barbsMetal.name=Metal Barbs
+item.wireClipper.name=Wire Clippers
+
+tile.barbedWire.name=Barbed Wire
+
+death.attack.barbedWire=%1$s was ripped to shreds in barbed wire.
+death.attack.barbedWire.play=%1$s got caught in barbed wire while fighting &2$s

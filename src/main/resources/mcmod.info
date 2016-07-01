@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "BarbedWire",
+    "name": "Barbed Wire",
+    "description": "Adds barbed wire and other cool defenses to the game!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/firecrafty/BarbedWire",
+    "updateUrl": "",
+    "authorList": [ "firecrafty_" ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": true
+  }]
+}
