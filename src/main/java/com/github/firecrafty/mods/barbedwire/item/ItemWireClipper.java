@@ -28,7 +28,6 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
 
-import java.util.List;
 
 /**
  * @author firecrafty
@@ -40,12 +39,6 @@ public class ItemWireClipper extends Item
         this.setCreativeTab(BWItems.tabBarbedWire);
         this.setUnlocalizedName("wireClipper");
         this.setTextureName(Reference.MOD_ID + ":wire_clipper");
-    }
-
-    @Override
-    public void addInformation(ItemStack stack, EntityPlayer player, List list, boolean par4)
-    {
-        list.add("This is a tooltip");
     }
 
     @Override
